@@ -4,9 +4,12 @@
  */
 public class Param {
     /**
-     * 局域网端口
+     * 局域网默认端口
      */
-    public static final int LAN_PORT=12345;
+    public static final int LAN_PORT=12345; /**
+     * 局域网文件端口
+     */
+    public static final int LAN_PORT_FILE=54321;
     /**
      * 本机IP
      */
