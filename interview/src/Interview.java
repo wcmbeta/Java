@@ -7,8 +7,8 @@ public class Interview {
     }
 
     /**
-     * ÃæÊÔÌâ1:Êä³ö100%3.0µÄ½á¹û
-     * ´ğ°¸Îª:1.0
+     * é¢è¯•é¢˜1:è¾“å‡º100%3.0çš„ç»“æœ
+     * ç­”æ¡ˆä¸º:1.0
      */
     private static void test1(){
         System.out.println(100%3.0);
